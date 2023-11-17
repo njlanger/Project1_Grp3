@@ -8,4 +8,7 @@ An analysis of the impact of mortgage rates within loan types on housing sales, 
 
 1. [full_fred](https://github.com/7astro7/full_fred)
     - full_fred's API translates to Python every type of request FRED® supports
+  
+## Link to the Slides:
+https://docs.google.com/presentation/d/11dhDWhvL0RjPv89yGpQqrECwcfd1kvTLjSzyzsWMCS0/edit#slide=id.g35f391192_00
 
