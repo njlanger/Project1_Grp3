@@ -3,6 +3,7 @@
 An analysis of the impact of mortgage rates within loan types on housing sales, and market conditions. The analysis also includes the use of historical data in forecasting mortgage rate movement and the performance of the housing market.
 
 ## Analysis Summary:
+
 In this group project, we conducted a comprehensive analysis of the impact of 30-year mortgage rates on housing sales and market conditions, incorporating variables such as the Consumer Price Index and Unemployment Rate. Our approach involved extensive discussions to define the project's scope, emphasizing collaboration for real-world data extraction, cleaning, and analysis.
 
 We employed a systematic approach encompassing key steps, including topic selection, question formulation, data source identification, data extraction and cleaning, focused refinement, and visualization interpretation. Leveraging course knowledge and data analysis best practices, we navigated challenges to gain meaningful insights. This was accomplished using course knowledge and data analysis best practices.
